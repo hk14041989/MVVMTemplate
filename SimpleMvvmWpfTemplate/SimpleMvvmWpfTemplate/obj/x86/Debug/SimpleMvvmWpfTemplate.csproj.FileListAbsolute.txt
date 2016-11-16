@@ -1,0 +1,33 @@
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\bin\Debug\SimpleMvvm-Wpf.exe.config
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\bin\Debug\SimpleMvvm-Wpf.exe
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\bin\Debug\SimpleMvvm-Wpf.pdb
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\bin\Debug\Microsoft.Expression.Interactions.dll
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\bin\Debug\SimpleMvvmToolkit-Common.dll
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\bin\Debug\SimpleMvvmToolkit-WPF.dll
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\bin\Debug\System.Windows.Interactivity.dll
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\bin\Debug\Microsoft.Expression.Interactions.xml
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\bin\Debug\SimpleMvvmToolkit-Common.pdb
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\bin\Debug\SimpleMvvmToolkit-Common.xml
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\bin\Debug\SimpleMvvmToolkit-WPF.pdb
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\bin\Debug\SimpleMvvmToolkit-WPF.xml
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\bin\Debug\System.Windows.Interactivity.xml
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\SimpleMvvmWpfTemplate.csprojResolveAssemblyReference.cache
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\Views\CustomerView.baml
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\Views\CustomerView.g.cs
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\MainWindow.g.cs
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\App.g.cs
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\SimpleMvvm-Wpf_MarkupCompile.cache
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\SimpleMvvm-Wpf_MarkupCompile.lref
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\App.baml
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\MainWindow.baml
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\SimpleMvvm-Wpf.g.resources
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\SimpleMvvmWpfTemplate.Properties.Resources.resources
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\SimpleMvvmWpfTemplate.csproj.GenerateResource.Cache
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\SimpleMvvm-Wpf.exe
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\SimpleMvvm-Wpf.pdb
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\Views\abc.baml
+d:\users\kienpham\documents\visual studio 2013\Projects\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\Views\abc.g.cs
+C:\WPF\WPF template\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\bin\Debug\SimpleMvvm-Wpf.exe.config
+C:\WPF\WPF template\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\SimpleMvvm-Wpf.exe
+C:\WPF\WPF template\SimpleMvvmWpfTemplate\SimpleMvvmWpfTemplate\obj\x86\Debug\SimpleMvvm-Wpf.pdb
