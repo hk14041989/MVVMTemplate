@@ -1,0 +1,9 @@
+d:\users\kienpham\documents\visual studio 2013\Projects\MVVMTemplate\MVVMTemplate\bin\Debug\MVVMTemplate.exe.config
+d:\users\kienpham\documents\visual studio 2013\Projects\MVVMTemplate\MVVMTemplate\obj\Debug\MVVMTemplate.csprojResolveAssemblyReference.cache
+d:\users\kienpham\documents\visual studio 2013\Projects\MVVMTemplate\MVVMTemplate\obj\Debug\MainWindow.baml
+d:\users\kienpham\documents\visual studio 2013\Projects\MVVMTemplate\MVVMTemplate\obj\Debug\MainWindow.g.cs
+d:\users\kienpham\documents\visual studio 2013\Projects\MVVMTemplate\MVVMTemplate\obj\Debug\App.g.cs
+d:\users\kienpham\documents\visual studio 2013\Projects\MVVMTemplate\MVVMTemplate\obj\Debug\MVVMTemplate_MarkupCompile.cache
+d:\users\kienpham\documents\visual studio 2013\Projects\MVVMTemplate\MVVMTemplate\obj\Debug\MVVMTemplate.g.resources
+d:\users\kienpham\documents\visual studio 2013\Projects\MVVMTemplate\MVVMTemplate\obj\Debug\MVVMTemplate.Properties.Resources.resources
+d:\users\kienpham\documents\visual studio 2013\Projects\MVVMTemplate\MVVMTemplate\obj\Debug\MVVMTemplate.csproj.GenerateResource.Cache
